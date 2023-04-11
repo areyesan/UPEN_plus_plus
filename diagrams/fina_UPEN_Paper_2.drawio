@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T17:56:27.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="C95op-ECKoV_6vzpheXh" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T15:06:43.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="CbNopXS8uILf88xYB6jb" version="21.1.2" type="github">
   <diagram id="X0O2eg0qRUBdDyiZCl7S" name="Page-3">
-    <mxGraphModel dx="6586" dy="-1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4947" dy="-2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +568,7 @@
             <mxPoint x="1046.6899999999991" y="5522.299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tpvsb_2PyZA2gUDNTjW8-53" value="Up-conv, 2x2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="Tpvsb_2PyZA2gUDNTjW8-53" value="Up-sampling, 2x2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1046.69" y="5507.5" width="227.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tpvsb_2PyZA2gUDNTjW8-54" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=5;" parent="1" edge="1">
@@ -586,7 +586,7 @@
             <mxPoint x="1285.9599999999996" y="5492.299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tpvsb_2PyZA2gUDNTjW8-57" value="Copy and crop" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="Tpvsb_2PyZA2gUDNTjW8-57" value="Copy" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1285.96" y="5477.5" width="227.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tpvsb_2PyZA2gUDNTjW8-58" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Encoder Path&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
